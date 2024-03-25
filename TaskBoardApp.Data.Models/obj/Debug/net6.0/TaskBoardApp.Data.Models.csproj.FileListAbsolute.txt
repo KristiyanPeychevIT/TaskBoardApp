@@ -1,0 +1,30 @@
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.Data.Models\bin\Debug\net6.0\TaskBoardApp.Data.Models.deps.json
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.Data.Models\bin\Debug\net6.0\TaskBoardApp.Data.Models.dll
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.Data.Models\bin\Debug\net6.0\TaskBoardApp.Data.Models.pdb
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.Data.Models\bin\Debug\net6.0\TaskBoardApp.Common.dll
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.Data.Models\bin\Debug\net6.0\TaskBoardApp.Common.pdb
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.Data.Models\obj\Debug\net6.0\TaskBoardApp.Data.Models.csproj.AssemblyReference.cache
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.Data.Models\obj\Debug\net6.0\TaskBoardApp.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.Data.Models\obj\Debug\net6.0\TaskBoardApp.Data.Models.AssemblyInfoInputs.cache
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.Data.Models\obj\Debug\net6.0\TaskBoardApp.Data.Models.AssemblyInfo.cs
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.Data.Models\obj\Debug\net6.0\TaskBoardApp.Data.Models.csproj.CoreCompileInputs.cache
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.Data.Models\obj\Debug\net6.0\TaskBoardApp.Data.Models.csproj.CopyComplete
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.Data.Models\obj\Debug\net6.0\TaskBoardApp.Data.Models.dll
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.Data.Models\obj\Debug\net6.0\refint\TaskBoardApp.Data.Models.dll
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.Data.Models\obj\Debug\net6.0\TaskBoardApp.Data.Models.pdb
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.Data.Models\obj\Debug\net6.0\ref\TaskBoardApp.Data.Models.dll
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.Data.Models\bin\Debug\net6.0\TaskBoardApp.Data.Models.deps.json
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.Data.Models\bin\Debug\net6.0\TaskBoardApp.Data.Models.dll
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.Data.Models\bin\Debug\net6.0\TaskBoardApp.Data.Models.pdb
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.Data.Models\bin\Debug\net6.0\TaskBoardApp.Common.dll
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.Data.Models\bin\Debug\net6.0\TaskBoardApp.Common.pdb
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.Data.Models\obj\Debug\net6.0\TaskBoardApp.Data.Models.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.Data.Models\obj\Debug\net6.0\TaskBoardApp.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.Data.Models\obj\Debug\net6.0\TaskBoardApp.Data.Models.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.Data.Models\obj\Debug\net6.0\TaskBoardApp.Data.Models.AssemblyInfo.cs
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.Data.Models\obj\Debug\net6.0\TaskBoardApp.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.Data.Models\obj\Debug\net6.0\TaskBoardApp.Data.Models.csproj.CopyComplete
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.Data.Models\obj\Debug\net6.0\TaskBoardApp.Data.Models.dll
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.Data.Models\obj\Debug\net6.0\refint\TaskBoardApp.Data.Models.dll
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.Data.Models\obj\Debug\net6.0\TaskBoardApp.Data.Models.pdb
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.Data.Models\obj\Debug\net6.0\ref\TaskBoardApp.Data.Models.dll

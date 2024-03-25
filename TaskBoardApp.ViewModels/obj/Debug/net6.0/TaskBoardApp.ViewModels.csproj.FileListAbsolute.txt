@@ -1,0 +1,30 @@
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.ViewModels\bin\Debug\net6.0\TaskBoardApp.ViewModels.deps.json
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.ViewModels\bin\Debug\net6.0\TaskBoardApp.ViewModels.dll
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.ViewModels\bin\Debug\net6.0\TaskBoardApp.ViewModels.pdb
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.ViewModels\obj\Debug\net6.0\TaskBoardApp.ViewModels.csproj.AssemblyReference.cache
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.ViewModels\obj\Debug\net6.0\TaskBoardApp.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.ViewModels\obj\Debug\net6.0\TaskBoardApp.ViewModels.AssemblyInfoInputs.cache
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.ViewModels\obj\Debug\net6.0\TaskBoardApp.ViewModels.AssemblyInfo.cs
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.ViewModels\obj\Debug\net6.0\TaskBoardApp.ViewModels.csproj.CoreCompileInputs.cache
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.ViewModels\obj\Debug\net6.0\TaskBoardApp.ViewModels.dll
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.ViewModels\obj\Debug\net6.0\refint\TaskBoardApp.ViewModels.dll
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.ViewModels\obj\Debug\net6.0\TaskBoardApp.ViewModels.pdb
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.ViewModels\obj\Debug\net6.0\ref\TaskBoardApp.ViewModels.dll
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.ViewModels\bin\Debug\net6.0\TaskBoardApp.Common.dll
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.ViewModels\bin\Debug\net6.0\TaskBoardApp.Common.pdb
+C:\KRIS\C#\ASP.NET\SoftUni\ASP.NET Fundamentals\Workshop - TaskBoard App\ASP.NET_Core_Fund_IdentityWorkshop2023\TaskBoardApp.ViewModels\obj\Debug\net6.0\TaskBoardApp.ViewModels.csproj.CopyComplete
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.ViewModels\bin\Debug\net6.0\TaskBoardApp.ViewModels.deps.json
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.ViewModels\bin\Debug\net6.0\TaskBoardApp.ViewModels.dll
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.ViewModels\bin\Debug\net6.0\TaskBoardApp.ViewModels.pdb
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.ViewModels\bin\Debug\net6.0\TaskBoardApp.Common.dll
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.ViewModels\bin\Debug\net6.0\TaskBoardApp.Common.pdb
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.ViewModels\obj\Debug\net6.0\TaskBoardApp.ViewModels.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.ViewModels\obj\Debug\net6.0\TaskBoardApp.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.ViewModels\obj\Debug\net6.0\TaskBoardApp.ViewModels.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.ViewModels\obj\Debug\net6.0\TaskBoardApp.ViewModels.AssemblyInfo.cs
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.ViewModels\obj\Debug\net6.0\TaskBoardApp.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.ViewModels\obj\Debug\net6.0\TaskBoardApp.ViewModels.csproj.CopyComplete
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.ViewModels\obj\Debug\net6.0\TaskBoardApp.ViewModels.dll
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.ViewModels\obj\Debug\net6.0\refint\TaskBoardApp.ViewModels.dll
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.ViewModels\obj\Debug\net6.0\TaskBoardApp.ViewModels.pdb
+C:\Users\User\Desktop\TaskBoardApp\TaskBoardApp.ViewModels\obj\Debug\net6.0\ref\TaskBoardApp.ViewModels.dll
